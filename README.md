@@ -16,7 +16,7 @@ from evolving threats
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| virtual-ad-lab-automation          | <a href="https://google.com">Virtual Lab</a>|
+| virtual-ad-lab-automation          | <a>Virtual Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
