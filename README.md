@@ -16,10 +16,10 @@ from evolving threats
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| virtual-ad-lab-automation          | <a>Virtual Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| virtual-Ad-Lab-Automation          | <a>Virtual Lab</a>|
+| Network Traffic Monitoring and Attack Detection using Azure | <a href="https://google.com">Detection Lab</a>|
+| AWS Secuirty Operation Center         | SOC Automation Lab|
+|File Integrity Monitoring 
 
 ## Tools
 
@@ -40,7 +40,19 @@ from evolving threats
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic%20SIEM-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+
 </div>
+
+### OS
+<div>
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tails%20(Onion)-56347C?&style=for-the-badge&logo=Tor%20Project&logoColor=white" />
+    <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
+</div>
+
+
+
 
 ## Certifications
 <div>
@@ -56,4 +68,6 @@ from evolving threats
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+- SOC Automation Azure Project
+- AWS SOC Automation
+- File Integrity Monitoring
