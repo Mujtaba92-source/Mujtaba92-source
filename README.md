@@ -17,7 +17,7 @@ from evolving threats
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | virtual-Ad-Lab-Automation          | <a>Virtual Lab</a>|
-| Network Traffic Monitoring and Attack Detection using Azure | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection using Azure | <a href="[https://google.com](https://github.com/Mujtaba92-source/Live-Azure-Cloud-SOC-Honeynet)">Detection Lab</a>|
 | AWS Secuirty Operation Center         | SOC Automation Lab|
 |File Integrity Monitoring 
 
