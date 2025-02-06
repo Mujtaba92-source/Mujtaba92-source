@@ -43,12 +43,11 @@ from evolving threats
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Azure%20900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-<a href="[YOUR_VERIFICATION_LINK_HERE](https://cp.certmetrics.com/amazon/en/public/verify/credential/22e46cd8fc964aa3a49e5d1225d9afec)" target="_blank">
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/22e46cd8fc964aa3a49e5d1225d9afec" target="_blank">
     <img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect%20SAA--C03-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 </a>
 
