@@ -17,9 +17,10 @@ from evolving threats
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | virtual-Ad-Lab-Automation          | <a href="https://github.com/users/Mujtaba92-source/projects/1/settings" target="_blank">Virtual Lab</a>|
-| Network Traffic Monitoring and Attack Detection using Azure | <a href="[https://google.com](https://github.com/Mujtaba92-source/Live-Azure-Cloud-SOC-Honeynet)">Detection Lab</a>|
-| AWS Secuirty Operation Center         | SOC Automation Lab|
-|File Integrity Monitoring 
+| Network Traffic Monitoring and Attack Detection using Azure | <a href="https://github.com/Mujtaba92-source/Live-Azure-Cloud-SOC-Honeynet" target="_blank">Detection Lab</a>
+| AWS Secuirty Operation Center         | <a href="https://github.com/Mujtaba92-source/AWS-cybersecurity-Homelab" target="_blank">SOC Automation Lab</a>
+|File Integrity Monitoring |<a href="https://github.com/Mujtaba92-source/File-Integrity-Monitoring" target="_blank">Code</a>
+
 
 ## Tools
 
