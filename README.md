@@ -1,5 +1,5 @@
 # Hello, I'm Mujtaba
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 
 A Dedicated IT professional transitioning into cybersecurity, passionate about mastering threat detection, vulnerability management, and advanced network defense strategies. Committed to leveraging strong knowledge of encryption,
